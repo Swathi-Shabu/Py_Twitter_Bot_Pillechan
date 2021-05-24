@@ -12,6 +12,7 @@ https://twitter.com/Pillechan_Bot
 BFH/recKYo2dEGiz4c2a7/2021
 ## Link to product walkthrough
 CODE EXPLANATION:https://www.loom.com/share/1bdd5d178969445c9334d7c0ca4ace67
+
 WORKING OF BOT: https://www.loom.com/share/b6e95ea046f04321923ec6fa3508ef03
 ## How it Works ?
 The bot works by using the twitter API.Bot accesses the associated twitter account using the API credentials.
