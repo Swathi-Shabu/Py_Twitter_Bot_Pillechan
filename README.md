@@ -26,6 +26,6 @@ The only thing you have to do is to add your own Twitter API credentials as envi
 ## How to Run
 Upload to your deployment service after adding your twitter API credentials as environment variables to the
 development service.
-
+## Certification
 ![Swathi Shabu 3-1](https://user-images.githubusercontent.com/83122148/130900627-3fa7a2d2-94a6-4655-bca1-2195e05d78be.png)
 
