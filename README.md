@@ -1,4 +1,5 @@
 
+
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 
 # Pillechan Twitter Bot
@@ -26,5 +27,5 @@ The only thing you have to do is to add your own Twitter API credentials as envi
 Upload to your deployment service after adding your twitter API credentials as environment variables to the
 development service.
 
-[Swathi Shabu (3).pdf](https://github.com/Swathi-Shabu/Py_Twitter_Bot_Pillechan/files/7051554/Swathi.Shabu.3.pdf)
+![Swathi Shabu 3-1](https://user-images.githubusercontent.com/83122148/130900627-3fa7a2d2-94a6-4655-bca1-2195e05d78be.png)
 
